@@ -6,6 +6,7 @@ NAME: PRAVEENKUMAR A
 
 DOMAIN: JAVA PROGRAMMING INTERNSHIP
 🏨 Hotel Reservation System (Java Console App)
+
 This is a simple Java-based console application for managing hotel room reservations. It allows users to book rooms, view current bookings, and cancel existing reservations. The system simulates basic hotel reservation functionality and demonstrates core Object-Oriented Programming (OOP) principles like class design, encapsulation, and polymorphism.
 
 ✨ Features
