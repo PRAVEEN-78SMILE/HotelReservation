@@ -44,3 +44,8 @@ HotelReservation.java – Main program logic and file I/O
 Reservation class – Models a booking record.
 
 reservations.txt – Auto-generated file to store reservations persistently.
+
+OUTPUT: 
+
+
+<img width="571" height="695" alt="Reservation" src="https://github.com/user-attachments/assets/f5a17e49-51ac-49aa-95ad-40b4d0f24038" />
